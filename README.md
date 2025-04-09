@@ -1,2 +1,19 @@
-# compuwork3-integracion
-Este repositorio contiene el desarrollo completo de la Actividad 3 del sistema CompuWork. Incluye la implementación de un sistema de administración de empleados y departamentos utilizando Java y los principios de Programación Orientada a Objetos (POO). Se integran pruebas unitarias con JUnit para validar el correcto funcionamiento del sistema.
+# Sistema de Gestión de Empleados - CompuWork
+
+Este sistema permite gestionar empleados, departamentos y reportes de desempeño. Está desarrollado en Java utilizando JavaFX para la interfaz gráfica y sigue principios de POO.
+
+## Funcionalidades
+- Crear empleados (permanentes y temporales)
+- Asignar empleados a departamentos
+- Generar reportes de desempeño
+- Interfaz sencilla con JavaFX
+
+## Tecnologías
+- Java 17+
+- JavaFX SDK 21
+- Visual Studio Code
+
+## Estructura del proyecto
+- `src/`: Código fuente
+- `lib/`: Librerías JavaFX
+- `.vscode/`: Configuración de entorno
